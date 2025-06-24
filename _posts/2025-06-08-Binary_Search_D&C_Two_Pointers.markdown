@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[BS, D&C, 2P] Codings 1. Binary Search - Fantastic method"
-date:   2025-05-24 23:52:52 -0400
+date:   2025-06-08 23:52:52 -0400
 categories: Codings
 ---
 

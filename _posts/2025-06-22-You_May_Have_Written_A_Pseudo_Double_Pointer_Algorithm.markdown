@@ -291,3 +291,6 @@ Therefore, when writing double pointer algorithms, consider:
 
     • Are you really considering how to cooperate the two pointers? 
     • Or are you still using a brute force just by looping two variables over and over?
+
+In short, writing “two pointers” isn’t just about using two indices—but about making them cooperate to cut down redundancy.
+From converging, to sliding windows, to slow-and-quick chasing, mastering these patterns helps you write algorithms that are both elegant and efficient—and definitely not pseudo.
